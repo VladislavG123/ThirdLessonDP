@@ -17,13 +17,14 @@ namespace TODO.DesignPatterns.Adapter
         static void Main(string[] args)
         {
             Car car = new Car();
-            Traveler traveler = new Camel(car);
+            Console.WriteLine($"Car can {car.Move()} ");
+            ITransport traveler = new Camel(car);
 
-            Console.WriteLine(traveler.Travel());
+            Console.WriteLine("Camel can " + traveler.Move());
         }
     }
 
-    public class Camel : Traveler
+    public class Camel : ITransport
     {
         private readonly Car _car;
 
@@ -32,22 +33,22 @@ namespace TODO.DesignPatterns.Adapter
             _car = car;
         }
 
-        public string Travel()
+        public string Move()
         {
-            return $"Camel is {_car.Move()}";
+            return $"{_car.Move()} also on the sands of the desert";
         }
     }
 
-    public interface Traveler
+    public interface ITransport
     {
-        string Travel();
+        string Move();
     }
 
     public class Car
     {
         public string Move()
         {
-            return "moving";
+            return "move on the road";
         }
     }
 }
