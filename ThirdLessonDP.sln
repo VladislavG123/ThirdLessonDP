@@ -11,6 +11,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DecoratorTemplate", "Decora
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Decorator", "Decorator\Decorator.csproj", "{7DFAB187-6828-49CE-B702-A2B7BD43C5F4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdapterTemplate", "AdapterTemplate\AdapterTemplate.csproj", "{BE1745F2-D3F9-4A07-B6D0-C81483482F59}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Adapter", "Adapter\Adapter.csproj", "{966B9CA2-723F-45F6-B830-8E5A281F8144}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +37,14 @@ Global
 		{7DFAB187-6828-49CE-B702-A2B7BD43C5F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7DFAB187-6828-49CE-B702-A2B7BD43C5F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7DFAB187-6828-49CE-B702-A2B7BD43C5F4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BE1745F2-D3F9-4A07-B6D0-C81483482F59}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE1745F2-D3F9-4A07-B6D0-C81483482F59}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE1745F2-D3F9-4A07-B6D0-C81483482F59}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE1745F2-D3F9-4A07-B6D0-C81483482F59}.Release|Any CPU.Build.0 = Release|Any CPU
+		{966B9CA2-723F-45F6-B830-8E5A281F8144}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{966B9CA2-723F-45F6-B830-8E5A281F8144}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{966B9CA2-723F-45F6-B830-8E5A281F8144}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{966B9CA2-723F-45F6-B830-8E5A281F8144}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

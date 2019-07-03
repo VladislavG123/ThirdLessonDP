@@ -1,0 +1,6 @@
+C:\Users\гороховв\source\repos\ThirdLessonDP\Adapter\obj\Debug\Adapter.csproj.CoreCompileInputs.cache
+C:\Users\гороховв\source\repos\ThirdLessonDP\Adapter\bin\Debug\Adapter.exe.config
+C:\Users\гороховв\source\repos\ThirdLessonDP\Adapter\bin\Debug\Adapter.exe
+C:\Users\гороховв\source\repos\ThirdLessonDP\Adapter\bin\Debug\Adapter.pdb
+C:\Users\гороховв\source\repos\ThirdLessonDP\Adapter\obj\Debug\Adapter.exe
+C:\Users\гороховв\source\repos\ThirdLessonDP\Adapter\obj\Debug\Adapter.pdb

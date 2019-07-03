@@ -1,0 +1,7 @@
+C:\Users\гороховв\source\repos\ThirdLessonDP\AdapterTemplate\bin\Debug\AdapterTemplate.exe.config
+C:\Users\гороховв\source\repos\ThirdLessonDP\AdapterTemplate\bin\Debug\AdapterTemplate.exe
+C:\Users\гороховв\source\repos\ThirdLessonDP\AdapterTemplate\bin\Debug\AdapterTemplate.pdb
+C:\Users\гороховв\source\repos\ThirdLessonDP\AdapterTemplate\obj\Debug\AdapterTemplate.csprojAssemblyReference.cache
+C:\Users\гороховв\source\repos\ThirdLessonDP\AdapterTemplate\obj\Debug\AdapterTemplate.csproj.CoreCompileInputs.cache
+C:\Users\гороховв\source\repos\ThirdLessonDP\AdapterTemplate\obj\Debug\AdapterTemplate.exe
+C:\Users\гороховв\source\repos\ThirdLessonDP\AdapterTemplate\obj\Debug\AdapterTemplate.pdb
