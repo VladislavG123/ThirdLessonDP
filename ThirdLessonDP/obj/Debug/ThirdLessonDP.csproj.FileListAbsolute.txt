@@ -1,0 +1,7 @@
+C:\Users\гороховв\source\repos\ThirdLessonDP\ThirdLessonDP\bin\Debug\ThirdLessonDP.exe.config
+C:\Users\гороховв\source\repos\ThirdLessonDP\ThirdLessonDP\bin\Debug\ThirdLessonDP.exe
+C:\Users\гороховв\source\repos\ThirdLessonDP\ThirdLessonDP\bin\Debug\ThirdLessonDP.pdb
+C:\Users\гороховв\source\repos\ThirdLessonDP\ThirdLessonDP\obj\Debug\ThirdLessonDP.csprojAssemblyReference.cache
+C:\Users\гороховв\source\repos\ThirdLessonDP\ThirdLessonDP\obj\Debug\ThirdLessonDP.csproj.CoreCompileInputs.cache
+C:\Users\гороховв\source\repos\ThirdLessonDP\ThirdLessonDP\obj\Debug\ThirdLessonDP.exe
+C:\Users\гороховв\source\repos\ThirdLessonDP\ThirdLessonDP\obj\Debug\ThirdLessonDP.pdb
